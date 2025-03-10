@@ -1,0 +1,171 @@
+{
+    "window":{
+        "toggle_button": "토글 버튼 GUI",
+        "title": "수정 & 세팅"
+        "settings": "세팅",
+        "language": "언어
+        "font_size": "폰트사이즈",,
+        "font_size_apply": "적용",
+        "about": "정보",
+        "author": "작성자",
+        "translator": "번역가",
+        "version": "버전"
+    },
+    "base": {
+        "disabled": "비활성화"            
+    },
+    
+    "character": {
+        "title": "캐릭터",
+        "stamina": {
+            "title": "스테미나",
+            "max": "최대 스테미나",
+            "unlimited": "스테미나 무한"
+        },
+        "health": {
+            "title": "체력",
+            "max": "최대 체력",
+            "unlimited": "체력 무한",
+            "healing": "힐링",
+            "healing_tooltip": "떨어진 체력은 회복 할 수 있습니다."
+        },
+        "blights_and_conditions":{
+            "title": "속성피해 & 상태이상",
+            "tooltip": "속성피해와 상태이상을 예방하세요",
+            "blights": {
+                "title": "속성피해",
+                "fire": "불",
+                "water": "물",
+                "ice": "얼음",
+                "thunder": "번개",
+                "dragon": "용",
+                "all": "모두"
+            },
+            "conditions":{
+                "title": "상태이상",
+                "poison": "독",
+                "sleep": "수면",
+                "paralyze": "마비",
+                "blast": "폭파",
+                "stun": "기절",
+                "defense_down": "방어 하락",
+                "bleed": "열상",
+                "stench": "악취",
+                "sticky": "속박",
+                "frenzy": "광룡증",
+                "frozen": "동결",
+                "all": "모두 "
+            }            
+        },
+        "item_buffs": {
+            "title": "아이템 버프",
+            "might_pill": "귀인약",
+            "adamant_pill": "경화약",
+            "demon_powder": "귀인가루",
+            "hardshell_powder": "경화가루",
+            "cool_drink": "쿨드링크",
+            "hot_drink": "핫드링크",
+            "dash_juice": "강주약",
+            "imunizer": "면역제"
+        },
+        "unlimited_sharpness": "무한예리도"
+    },
+
+    "great_sword": {
+        "title": "대검",
+        "true_charge_boost": "참모아베기 강격 상시 발동",
+        "true_charge_boost_tooltip": "참모아베기 1타를 맞춰야 강격이 발동하는 것을 1타없이 발동시킵니다",
+        "instant_charge": "상시 3차지"
+    },
+    "sword_and_shield": {
+        "title": "한손검"
+    },
+    "dual_blades": {
+        "title": "쌍검",
+        "demon_gauge": "귀인게이지 무한",
+        "demon_boost": "귀인회피 무한 활성화"
+    },
+    "long_sword": {
+        "title": "태도",
+        "aura_level": "코팅 레벨",
+        "aura_level_tooltip": "코팅을 0에서 1로 설정하면 연기게이지를 모아 활성화 해야됩니다",
+        "max_aura_gauge": "코팅 최대",
+        "max_spirit_gauge": "연기게이지 최대"
+    },
+    "insect_glaive": {
+        "title": "조충곤",
+        "kinsect": {
+            "title": "벌레",
+            "power": "힘",
+            "speed": "스피드",
+            "recovery": "회복",
+            "unlimited_stamina": "무한 벌레스테미나"
+        },
+        "red": "빨강",
+        "orange": "주황",
+        "white": "하양",
+        "infinite_air_dashes": "무한 공중 공격",
+        "max_charge": "강공격 차징 맥스"
+    },
+
+     "hammer": {
+        "title": "해머",
+        "instant_charge": "즉시 3차지"
+    },
+    "hunting_horn": {
+        "title": "수렵피리"
+    },
+    
+    "lance": {
+        "title": "랜스",
+        "counter_charge_level": "모으기 카운터 레벨",
+        "rush_level": "러시 레벨",
+        "infinite_backstep": "무한 백스텝"
+    },
+    "gunlance": {
+        "title": "건랜스",
+        "shell_level": "방패 레벨",
+        "infinite_wyvern_fire": "무한 용향포",
+        "infinite_backstep": "무한 백스텝",
+        "instant_charge": "즉시 차지완료 ", 
+        "instant_charge_tooltip": "잠깐 차징한 후 발사를 위해 놓아야 합니다",
+        "free_charge_shot": "모으기 포격 무료"
+    },
+
+    "bow": {
+        "title": "활",
+        "charge_level": "차지레벨 고정",
+        "all_arrow_types": "모든 병 활성화",
+        "unlimited_bottles": "병 소모 없음",
+        "max_trick_arrow_gauge": "무한 유도화살 게이지"
+    },
+    "light_bowgun": {
+        "title": "라이트보우건",
+        "max_special_ammo": "특수탄 무한",
+        "max_rapid_shot": "속사모드 게이지 무한",
+        "max_eagle_shot": "집중 특효탄",
+        "max_eagle_shot_charge": "집중 특효탄 무한"
+    },
+    "heavy_bowgun": {
+        "title": "헤비보우건",
+        "max_special_ammo": "용열기관용탄 무한게이지",
+        "max_wyvern_howl": "용열상쇄탄 탄소모 없음",
+        "max_gatling_hits": "용열기관용탄 최대 데미지",
+        "max_gatling_hits_tooltip": "용열기관용탄이 발당 최대데미지로 때립니다."
+    },
+
+    "charge_blade": {
+        "title": "차지액스",
+        "max_phials": "병 무한s",
+        "overcharge_phials": "오버차지로 병충전",
+        "shield_enhanced": "방패강화",
+        "sword_enhanced": "검강화",
+        "axe_enhanced": "도끼강화"
+    },
+    "switch_axe": {
+        "title": "슬래시액스",
+        "max_charge": "도끼게이지",
+        "max_sword_charge": "검게이지",
+        "powered_axe": "도끼강화"
+    }
+}
